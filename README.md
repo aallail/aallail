@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali Allail
 - 👀 I’m interested in Machine Learning and Statistics
-- 🌱 I’m currently (June 2022) learning about Adversarial Attacks on Multi-armed Bandits
 - 📫 How to reach me: email aallail714@gmail.com
 
 <!---
